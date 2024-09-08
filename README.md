@@ -16,10 +16,6 @@ dan lain-lain.
 - Admin
 - Customer
 
-User demo:
-- Admin
-username: mulyojr
-password: qwerty
-- Customer:
-username: agungtr
-password: qwerty
+Tools
+- PHP version 7.3
+- Codeigniter 3
