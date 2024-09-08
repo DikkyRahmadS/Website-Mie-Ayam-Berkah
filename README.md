@@ -2,7 +2,7 @@
 
 
 
-##Fitur
+## Fitur
 - Login
 - Register
 - Cart
@@ -12,10 +12,10 @@
 - Formulir kontak
 dan lain-lain.
 
-##Hak akses
+## Hak akses
 - Admin
 - Customer
 
-Tools
+## Tools
 - PHP version 7.3
 - Codeigniter 3
